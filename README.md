@@ -12,7 +12,7 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -55,11 +55,11 @@ I learned about how to use the flexbox to design simple and responsive layouts.
 ### Continued development
 
 I would like to continue to learn more about the flexbox and also get
-myself familiar with css grid layouts.
+myself familiar with css grid layouts. And get myself well versed in media queries and responsives.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/isaacagyeman)
 - Twitter - [@yourusername](https://www.twitter.com/isaacagyeman17)
