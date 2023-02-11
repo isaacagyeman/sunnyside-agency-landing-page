@@ -61,5 +61,5 @@ myself familiar with css grid layouts. And get myself well versed in media queri
 ## Author
 
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/isaacagyeman)
-- Twitter - [@yourusername](https://www.twitter.com/isaacagyeman17)
+- Frontend Mentor - [Isaac Agyeman](https://www.frontendmentor.io/profile/isaacagyeman)
+- Twitter - [Isaac Agyeman](https://www.twitter.com/isaacagyeman17)
